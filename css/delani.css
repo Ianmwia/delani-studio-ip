@@ -1,0 +1,32 @@
+.stairs {
+    text-align: center;
+    position: relative;
+}
+.dimage {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50);
+}
+.welcome {
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%, -50);
+}
+.mousy {
+    position: absolute;
+    top: 93%;
+    left: 50%;
+    transform: translate(-50%, -50)
+}
+.content {
+    text-align: center;
+    position: relative;
+}
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
