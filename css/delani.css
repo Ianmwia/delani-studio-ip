@@ -2,6 +2,9 @@ body {
     display: flex;
     justify-content: center;
 }
+.aligner {
+    align-items: flex-start;
+}
 .stairs {
     text-align: center;
     position: relative;
