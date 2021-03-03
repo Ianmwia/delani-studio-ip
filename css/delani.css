@@ -1,9 +1,5 @@
-body {
-    display: flex;
-    justify-content: center;
-}
-.aligner {
-    align-items: flex-start;
+.body {
+
 }
 .stairs {
     text-align: center;
